@@ -1,2 +1,2 @@
-# Making-The-Slingshot
-In this project I created the slingshot for the angry bird game with help of my teacher
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
